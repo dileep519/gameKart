@@ -1,0 +1,45 @@
+
+.login-text{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    font-weight: 600;
+}
+    
+.Email-text{
+    margin-left: 6%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#Email{
+    display: flex;
+    width: 80%;
+    height:20px;
+    margin-left: 6%;
+}
+#password{
+    width:80%;
+    height: 20px;
+    margin-left: 6%;
+}
+    
+.pwd-text{
+    margin-top: 2%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+    
+.login-but{
+    background: #3b5998;
+    outline: none;
+    min-width: 20%;
+    max-width: 20%;
+    margin:10% 39% 0% 40%;
+    /* text-decoration: none; */
+    padding:2%;
+    border:none;
+    color:white;
+}
+
+
+
+
+

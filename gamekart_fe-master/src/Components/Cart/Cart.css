@@ -1,0 +1,29 @@
+.cart-button{
+    margin-top: 38%;
+    text-decoration: none;
+    height: 40px;
+    width: 40px;
+    outline: none;
+    border: none;
+    background: #e0e0e0;
+    cursor: pointer;
+}
+
+
+.test-div{
+    border: none;
+}
+
+.cart-icon{
+    transform:translateY(-45px) translateX(26px);
+   position: absolute;
+   color:white;
+   text-align: center;
+   height: 18px;
+   width: 18px;
+   background: #ff1744;
+   padding: 1px;
+   border-radius:8px;
+   border: 2px solid white;
+   outline: white;
+}

@@ -1,0 +1,68 @@
+.register-text{
+    display: flex;
+    margin-top: 4px;
+    align-content: center;
+    justify-content: center;
+    font-weight: 600;
+}
+
+#user-name{
+    display: flex;
+    flex-wrap:wrap;
+    width: 80%;
+    height: 20px;
+    margin-left:5%;
+}
+.confpwd-text{
+    margin-left: 5%;
+    font-family: Georgia, 'Times New Roman', Times, serif;   
+}
+#confpwd{
+    display: flex;
+    flex-wrap:wrap;
+    width: 80%;
+    height: 20px;
+    margin-left:5%;
+}
+.name-input{
+    margin-left: 5%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Email-text{
+    margin-left: 5%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#email{
+    display: flex;
+    flex-wrap:wrap;
+    width: 80%;
+    height: 20px;
+    margin-left: 5%;
+}
+
+.pwd-text{
+    margin-left: 5%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#pwd{
+    width:80%;
+    height: 20px;
+    margin-left: 5%;
+}
+
+.signup-button{
+    display: flex;
+    background: #3b5998;
+    outline: none;
+    /* margin:auto; */
+    min-width:60px;
+    max-width:60px;
+    margin:3% 39% 0% 40%;
+    text-decoration: none;
+    border:none;
+    padding: 5px;
+    color:white;
+}

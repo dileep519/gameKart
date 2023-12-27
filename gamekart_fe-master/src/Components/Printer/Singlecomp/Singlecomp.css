@@ -1,0 +1,61 @@
+.single-box{
+    display: flex;
+    height:240px;
+    width:230px;
+    flex-direction: column;
+    align-content: center;
+    box-shadow: 2px 4px 10px 4px rgba(0,0,0,0.2);
+    margin: 6px;
+    border-radius: 6px;
+}
+
+.sub-single-box{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.final-single-div{
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    align-content: flex-end;
+    justify-content: center;
+}
+
+.cart-button-single{
+    margin-top:44px;
+    height:40px;
+    width:118px;
+    outline: none;
+    border: none;
+    border-radius: 0px 0px 0px 6px;
+    background: #42a5f5;
+}
+
+.buy-button-single{
+    margin-top:44px;
+    height:40px;
+    width:118px;
+    outline: none;
+    border: none;
+    border-radius: 0px 0px 6px 0px;
+    background: #1e88e5;
+}
+
+.cart-button-single:hover{
+    cursor: pointer;
+}
+
+.buy-button-single{
+    cursor: pointer;
+}
+
+.handle-text-publisher{
+    overflow: hidden;
+    height: 20px;
+}
+
+.handle-text-name{
+    overflow: hidden;
+    height: 20px;
+}

@@ -1,0 +1,16 @@
+.home-but{
+    margin-top: 32%;
+    text-decoration: none;
+    outline: none;
+    background:#e0e0e0;
+    /* #3b5998 */
+    color:black;
+    border:1px;
+    font-weight: 1000;
+    width: 60px;
+    padding: 3px;
+}
+
+.home-but:hover{
+    cursor: pointer;
+}

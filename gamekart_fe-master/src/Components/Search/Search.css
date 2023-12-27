@@ -1,0 +1,33 @@
+.search-div{
+    display: flex;
+    margin-top:13px;
+    width:40%;
+    flex-shrink: 2;
+}
+
+.search-text{
+    height:34px;
+    outline: none;
+    text-decoration: none;
+    width:80%;
+    margin:0px;
+    padding: 0px;
+    border:none;
+    border-radius: 2px 0px 0px 2px;
+}
+
+
+.submit-but{
+    outline: none;
+    text-decoration: none;
+    background: #eceff1;
+    border:0px;
+    height:34px;
+    margin:0px;
+    padding: 0px;
+    border-radius: 0px 2px 2px 0px;
+}
+
+.submit-but:hover{
+    cursor: pointer;
+}

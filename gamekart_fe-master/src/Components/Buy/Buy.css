@@ -1,0 +1,69 @@
+.buy-div{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-content:center ;
+    flex:1; 
+}
+
+.apply-flex{
+    display: flex;
+    flex-direction: column;
+    width:250px;
+    box-shadow: 0px 8px 16px 4px rgba(0,0,0,0.2);
+    height: 380px;
+}
+
+#Buy-Email{
+    width:200px;
+    align-content: center;
+}
+
+#Buy-Name{
+    width: 200px;
+}
+
+#Phone{
+    width: 200px;
+}
+
+#pincode,#street,#area,#city,#house-no{
+    width:200px;
+}
+
+.name-div-buy{
+    margin-right: 10px;
+}
+
+.buy-buttons{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+    justify-content: space-around;
+}
+
+.buy-button-cancle{
+    border:none;
+    height: 30px;
+    font-weight: 600;
+    cursor: pointer;
+    outline: none;
+}
+
+.buy-button-buy{
+    border: none;
+    font-weight: 600;
+    height: 30px;
+    width: 60px;
+    cursor: pointer;
+    outline: none;
+}
+
+.buy-button-buy:hover,.buy-button-cancle:hover{
+    background: #e3e3e3;
+}
+
+.assign-margin{
+    margin: 10px;
+}
